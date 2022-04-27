@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoaoP29
+- 👀 I’m interested in Software QA and Data Analysis
+- 🌱 I’m currently learning JS, Python and R
+- 💞️ I’m looking to collaborate on Data Analysis projects
+- 📫 How to reach me https://www.linkedin.com/in/joao-pedro-sousa/
